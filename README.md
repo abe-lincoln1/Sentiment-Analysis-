@@ -1,5 +1,5 @@
 # Sentiment-Analysis-
-Developed a Sentiment Analysis Model: Implemented a sentiment analysis model using machine learning techniques, specifically Logistic Regression, and utilized advanced text vectorization methods, including Word2Vec embeddings.
+Developed a Sentiment Analysis Model: Implemented a sentiment analysis model using machine learning techniques, specifically Logistic Regression, and utilized advanced text vectorization methods.
 
 Natural Language Processing (NLP) Expertise: Applied NLP techniques such as text tokenization and feature engineering to effectively capture and analyze sentiments in a large dataset of tweets.
 
